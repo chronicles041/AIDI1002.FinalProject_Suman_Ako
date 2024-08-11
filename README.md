@@ -1,6 +1,6 @@
 Certainly! Here’s a more detailed `README.md` file, including additional sections for clarity and completeness:
 
-```markdown
+
 # DeiT: Data-efficient Image Transformers
 
 ## Overview
