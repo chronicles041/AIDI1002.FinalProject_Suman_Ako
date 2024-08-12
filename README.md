@@ -1,11 +1,11 @@
-Certainly! Here’s a more detailed `README.md` file, including additional sections for clarity and completeness:
-
-
 # DeiT: Data-efficient Image Transformers
 
 ## Overview
 
-This repository provides code and instructions for implementing and evaluating the DeiT (Data-efficient Image Transformers) model introduced by Hugo Touvron et al. in 2020. DeiT is a vision transformer model that achieves high performance on image classification tasks with reduced data and computational requirements compared to traditional Convolutional Neural Networks (CNNs). This repository is designed to help users reproduce the results from the paper, test the model on new datasets, and experiment with hyperparameters and transfer learning.
+This repository provides code and instructions for implementing and evaluating the DeiT (Data-efficient Image Transformers) model introduced by Hugo Touvron et al. in 2020. DeiT is a vision transformer model that achieves high performance on image classification tasks with reduced data and computational requirements compared to traditional Convolutional Neural Networks (CNNs). This repository is designed to help users reproduce the results from the paper, test the model on new datasets, and experiment with hyperparameters and transfer learning. 
+ ```bash
+   https://github.com/facebookresearch/deit/blob/main/README_deit.md
+   ```
 
 ## Aim
 
@@ -28,7 +28,7 @@ To ensure compatibility, the following versions of packages are required:
    Begin by cloning the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/chronicles041/AIDI1002.FinalProject_Suman_Ako
    ```
 
 2. **Navigate to the Project Directory**
@@ -113,8 +113,6 @@ TO BE DONE
 
 ## Contact
 
-For any questions or issues, please contact [your email] or open an issue on this GitHub repository.
+For any questions or issues, open an issue on this GitHub repository https://github.com/facebookresearch/deit.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
