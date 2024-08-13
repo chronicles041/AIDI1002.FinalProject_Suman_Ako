@@ -127,18 +127,5 @@ TO BE DONE
 
 1. **Touvron, H., Cord, M., Douze, M., Massa, F., Sablayrolles, A., & Jégou, H.** (2021). *Training data-efficient image transformers & distillation through attention*. In *International Conference on Machine Learning* (pp. 10347-10357). Available at: [https://arxiv.org/abs/2012.12877](https://arxiv.org/abs/2012.12877)
 
-## BibTeX
-
-```bibtex
-@InProceedings{pmlr-v139-touvron21a,
-  title =     {Training data-efficient image transformers & distillation through attention},
-  author =    {Touvron, Hugo and Cord, Matthieu and Douze, Matthijs and Massa, Francisco and Sablayrolles, Alexandre and Jegou, Herve},
-  booktitle = {International Conference on Machine Learning},
-  pages =     {10347--10357},
-  year =      {2021},
-  volume =    {139},
-  month =     {July}
-}
-
 
 
