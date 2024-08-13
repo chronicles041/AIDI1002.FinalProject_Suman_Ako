@@ -112,7 +112,18 @@ TO BE DONE
 
 
 ## Contact
+## BibTeX
 
-For any questions or issues, open an issue on this GitHub repository https://github.com/facebookresearch/deit.
+```bibtex
+@InProceedings{pmlr-v139-touvron21a,
+  title =     {Training data-efficient image transformers & distillation through attention},
+  author =    {Touvron, Hugo and Cord, Matthieu and Douze, Matthijs and Massa, Francisco and Sablayrolles, Alexandre and Jegou, Herve},
+  booktitle = {International Conference on Machine Learning},
+  pages =     {10347--10357},
+  year =      {2021},
+  volume =    {139},
+  month =     {July}
+}
+
 
 
