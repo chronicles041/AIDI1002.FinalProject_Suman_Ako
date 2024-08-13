@@ -97,7 +97,7 @@ To ensure compatibility, the following versions of packages are required:
    - Follow the steps outlined in the notebook to set up your environment and reproduce the results from the DeiT paper using the ImageNet dataset.
 
 2. **Evaluate on New Datasets**
-   - Test the DeiT model on additional datasets such as CIFAR-10 or CIFAR-100.
+   - Test the DeiT model on additional datasets such as CIFAR-10 or MNIST.
    - Compare the performance metrics with those reported in the paper.
 
 3. **Hyperparameter Tuning**
