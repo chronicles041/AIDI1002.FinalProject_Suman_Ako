@@ -112,14 +112,32 @@ TO BE DONE
 
 
 ## Contact
+
+### Tips for Including BibTeX in README Files
+
+1. **Ensure Proper Formatting:** Use triple backticks (```) to format the BibTeX entry as code in Markdown.
+2. **Check Markdown Renderer:** Some Markdown renderers might not handle certain formats or code blocks properly. Verify how the renderer you're using displays code blocks.
+3. **Link Directly to Papers:** For better accessibility, include a direct link to the paper along with its citation.
+
+### Example README Segment
+
+
+```markdown
+## References
+
+1. **Touvron, H., Cord, M., Douze, M., Massa, F., Sablayrolles, A., & Jégou, H.** (2021). *Training data-efficient image transformers & distillation through attention*. In *International Conference on Machine Learning* (pp. 10347-10357). Available at: [https://arxiv.org/abs/2012.12877](https://arxiv.org/abs/2012.12877)
+
+## BibTeX
+
+```bibtex
 @InProceedings{pmlr-v139-touvron21a,
-   title = {Training data-efficient image transformers & distillation through attention},
-   author = {Touvron, Hugo and Cord, Matthieu and Douze, Matthijs and Massa, Francisco and Sablayrolles, Alexandre and Jegou, Herve},
-   booktitle = {International Conference on Machine Learning},
-   pages = {10347--10357},
-   year = {2021},
-   volume = {139},
-   month = {July}
+  title =     {Training data-efficient image transformers & distillation through attention},
+  author =    {Touvron, Hugo and Cord, Matthieu and Douze, Matthijs and Massa, Francisco and Sablayrolles, Alexandre and Jegou, Herve},
+  booktitle = {International Conference on Machine Learning},
+  pages =     {10347--10357},
+  year =      {2021},
+  volume =    {139},
+  month =     {July}
 }
 
 
